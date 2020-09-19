@@ -1,0 +1,7 @@
+C:\Users\Kolotyuk\source\repos\home_work_c_sharp_classes\home_work_c_sharp_classes\bin\Debug\home_work_c_sharp_classes.exe.config
+C:\Users\Kolotyuk\source\repos\home_work_c_sharp_classes\home_work_c_sharp_classes\bin\Debug\home_work_c_sharp_classes.exe
+C:\Users\Kolotyuk\source\repos\home_work_c_sharp_classes\home_work_c_sharp_classes\bin\Debug\home_work_c_sharp_classes.pdb
+C:\Users\Kolotyuk\source\repos\home_work_c_sharp_classes\home_work_c_sharp_classes\obj\Debug\home_work_c_sharp_classes.csprojAssemblyReference.cache
+C:\Users\Kolotyuk\source\repos\home_work_c_sharp_classes\home_work_c_sharp_classes\obj\Debug\home_work_c_sharp_classes.csproj.CoreCompileInputs.cache
+C:\Users\Kolotyuk\source\repos\home_work_c_sharp_classes\home_work_c_sharp_classes\obj\Debug\home_work_c_sharp_classes.exe
+C:\Users\Kolotyuk\source\repos\home_work_c_sharp_classes\home_work_c_sharp_classes\obj\Debug\home_work_c_sharp_classes.pdb
